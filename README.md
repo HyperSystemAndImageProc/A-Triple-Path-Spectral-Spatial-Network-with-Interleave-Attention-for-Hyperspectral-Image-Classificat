@@ -19,6 +19,23 @@ Citation
   number={},
   pages={5906-5923},
   doi={10.1109/JSTARS.2022.3192470}}
+  
+  
+Citation
+---------------------
+
+**Please kindly cite the papers if this code is useful and helpful for your research.**
+
+    @ARTICLE{10036472,
+    author={Roy, Swalpa Kumar and Deria, Ankur and Shah, Chiranjibi and Haut, Juan M. and Du, Qian and Plaza, Antonio},
+    journal={IEEE Transactions on Geoscience and Remote Sensing},
+    title={Spectral–Spatial Morphological Attention Transformer for Hyperspectral Image Classification},
+    year={2023},
+    volume={61},
+    number={},
+    pages={1-15},
+    doi={10.1109/TGRS.2023.3242346}}
+
 
 
 If you require any additional information, please do not hesitate to contact us at eliot.c.yang@163.com. We are happy to assist you in any way we can.
