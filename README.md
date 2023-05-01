@@ -10,31 +10,16 @@ Citation
 
 **If you find this code to be useful and it contributes to your research, we kindly request that you cite the relevant paper(s).**
 
-  @ARTICLE{9833261,
-  author={Deng, Ziqing and Wang, Yang and Zhang, Bing and Li, Linwei and Wang, Jihong and Bian, Lifeng and Yang, Chen},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={A Triple-Path Spectral–Spatial Network With Interleave-Attention for Hyperspectral Image Classification}, 
-  year={2022},
-  volume={15},
-  number={},
-  pages={5906-5923},
-  doi={10.1109/JSTARS.2022.3192470}}
-  
-  
-Citation
----------------------
 
-**Please kindly cite the papers if this code is useful and helpful for your research.**
-
-    @ARTICLE{10036472,
-    author={Roy, Swalpa Kumar and Deria, Ankur and Shah, Chiranjibi and Haut, Juan M. and Du, Qian and Plaza, Antonio},
-    journal={IEEE Transactions on Geoscience and Remote Sensing},
-    title={Spectral–Spatial Morphological Attention Transformer for Hyperspectral Image Classification},
-    year={2023},
-    volume={61},
+    @ARTICLE{9833261,
+    author={Deng, Ziqing and Wang, Yang and Zhang, Bing and Li, Linwei and Wang, Jihong and Bian, Lifeng and Yang, Chen},
+    journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+    title={A Triple-Path Spectral–Spatial Network With Interleave-Attention for Hyperspectral Image Classification}, 
+    year={2022},
+    volume={15},
     number={},
-    pages={1-15},
-    doi={10.1109/TGRS.2023.3242346}}
+    pages={5906-5923},
+    doi={10.1109/JSTARS.2022.3192470}}
 
 
 
