@@ -11,4 +11,5 @@ If you require any additional information, please do not hesitate to contact us 
 
 Citation：
 If you find this code to be useful and it contributes to your research, we kindly request that you cite the relevant paper(s). 
+
 Z. Deng et al., "A Triple-Path Spectral–Spatial Network With Interleave-Attention for Hyperspectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 5906-5923, 2022, doi: 10.1109/JSTARS.2022.3192470.
